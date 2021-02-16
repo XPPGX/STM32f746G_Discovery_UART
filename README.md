@@ -23,8 +23,9 @@
 2. Timer
 3. LED(PI1)
 4. LCD
-5. UART TX (PA9)
-6. UART RX (PB7)
+5. UART
+   - TX -> (PA9)
+   - RX -> (PB7)
 
 # reference
 1. https://applefreak111.wordpress.com/2013/05/08/howto-stm32-%E4%B8%AD%E6%96%B7-%E5%A4%96%E9%83%A8%E4%B8%AD%E6%96%B7-%E6%95%99%E5%AD%B8/
