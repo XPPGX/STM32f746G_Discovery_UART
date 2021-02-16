@@ -2,7 +2,7 @@
 >This is a test which is using STM32f746G_Discovery  to send data to computer
 
 # Goal
-### Create 3 modes to control the led、lcd、UART to show respectively act
+### Create 3 modes to control the led、lcd、UART to show act respectively
 - mode 1:
   - LED glows one time per 100ms
   - COM port sends string "MODE 1, LED FLASH = 5Hz"
